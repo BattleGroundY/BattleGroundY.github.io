@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Byeong Guan
 ---
 
 <div class="post">
@@ -22,3 +22,4 @@ title: About Long Haul
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
 </div>
+
