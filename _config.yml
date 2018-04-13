@@ -2,7 +2,7 @@ title: Byeong Guan
 description: ¡°ML/DL blog, Future-lab¡±
 
 url: https://battlegroundy.github.io/
-baseurl:
+baseurl: ¡°¡±
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
